@@ -1,0 +1,10 @@
+/.snapshots
+/.vscode
+/carvana
+/data
+/decode_images
+/my_checkpoint.pth.tar
+/saved_images
+/submission.csv
+/train_masks.csv
+/__pycache__
